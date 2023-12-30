@@ -1,5 +1,5 @@
 # Installation commands
 ```bash
-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
 tmux source ~/.config/tmux/tmux.conf
 ```
